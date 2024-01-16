@@ -23,3 +23,7 @@ tmp
 
 # docker-compose database directory
 docker-db-data
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
